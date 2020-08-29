@@ -1,0 +1,8 @@
+export(get_candidate_covariates)
+export(get_prioritised_covariates)
+export(get_recurrence_covariates)
+export(get_relative_risk)
+import(dplyr)
+importFrom(purrr,reduce)
+importFrom("data.table", "data.table", "dcast")
+importFrom(stats,quantile)
