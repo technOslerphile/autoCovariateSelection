@@ -19,6 +19,8 @@ Description: Contains functions to implement automated covariate selection using
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/technOslerphile/autoCovariateSelection
+BugReports: https://github.com/technOslerphile/autoCovariateSelection/issues
 Imports:
     purrr,
     data.table
