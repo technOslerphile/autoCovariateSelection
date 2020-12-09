@@ -1,6 +1,8 @@
 # autoCovariateSelection
 **R Package to Implement Automated Covariate Selection for Two Exposure Cohorts Using High-Dimensional Propensity Score Algorithm**
 
+[**Click here to go to the online R Package Documentation**](https://technoslerphile.github.io/autoCovariateSelection/index.html)
+
 *autoCovariateSelection* is an R package that contains functions to implement automated covariate selection using methods described in the high-dimensional propensity score (HDPS) algorithm put forward by Schneeweiss et.al. 
 
 Original publication by [Schneeweiss et.al. (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077219/)
