@@ -38,3 +38,7 @@ step3 <- get_prioritised_covariates(df = out2, patientIdVarname = "person_id", e
                                     outcomeVector = ifelse(is.na(basetable$outcome_date), 0,1),patientIdVector = patientIds, k = 10)
 out3 <- step3$autoselected_covariate_df #dataframe containing the auto selected covariates for all the subjects in the table  
 ```
+--------------------------------------------------------------------------------------------------------
+I gladly welcome all suggestions for improvements and collaborations
+
+[*Please report any bugs or issues here*](https://github.com/technOslerphile/autoCovariateSelection/issues)
