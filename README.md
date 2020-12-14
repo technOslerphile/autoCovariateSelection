@@ -3,6 +3,8 @@
 
 [**Click here to go to the online R Package Documentation**](https://technoslerphile.github.io/autoCovariateSelection/index.html)
 
+[**Now available in CRAN**](https://cran.r-project.org/web/packages/autoCovariateSelection/index.html)
+
 *autoCovariateSelection* is an R package that contains functions to implement automated covariate selection using methods described in the high-dimensional propensity score (HDPS) algorithm put forward by Schneeweiss et.al. 
 
 **Original publication by [Schneeweiss et.al. (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077219/)**
@@ -16,10 +18,9 @@ The functions in this package help to implement the three steps of automated cov
 
 In addition to these functions, a sample real-world-data from publicly available de-identified medical claims data is also available for running examples and also for further exploration. 
 
-**How to install the version from GitHub**
+**How to install the package**
 ```
-library("devtools")
-install_github(repo = "https://github.com/technOslerphile/autoCovariateSelection")
+install.packages("autoCovariateSelection")
 ```
 **Example using inbuilt data within the package**
 ```
