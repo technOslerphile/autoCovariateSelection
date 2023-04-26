@@ -44,8 +44,8 @@ I gladly welcome all suggestions for improvements and collaborations
 
 [*Please report any bugs or issues here*](https://github.com/technOslerphile/autoCovariateSelection/issues)
 
-**Please cite this package if you use it for your research publications.
+**Please cite this package if you use it for your research publications**
 
   Robert D (2020). autoCovariateSelection: Automated Covariate Selection Using HDPS Algorithm. R package version 1.0.0,
-  <https://CRAN.R-project.org/package=autoCovariateSelection>.**
+  <https://CRAN.R-project.org/package=autoCovariateSelection>.
 
