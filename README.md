@@ -4,7 +4,7 @@
 [**Click here to go to the online R Package Documentation**](https://technoslerphile.github.io/autoCovariateSelection/index.html)
 
 [**Now available in CRAN**](https://cran.r-project.org/web/packages/autoCovariateSelection/index.html)
-As of 20 June 2023, this package has been downloaded more than 10,000 times from CRAN.
+As of 24 January 2025, this package has been downloaded more than 16,000 times from CRAN.
 
 *autoCovariateSelection* is an R package that contains functions to implement automated covariate selection using methods described in the high-dimensional propensity score (HDPS) algorithm put forward by Schneeweiss et.al. 
 
