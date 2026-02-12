@@ -6,15 +6,20 @@
 [**Now available in CRAN**](https://cran.r-project.org/web/packages/autoCovariateSelection/index.html)
 As of February 2026, this package has been downloaded more than 20,000 times from CRAN.
 
+**About this package**
+
 *autoCovariateSelection* is an R package that contains functions to implement automated covariate selection using methods described in the high-dimensional propensity score (HDPS) algorithm put forward by Schneeweiss et.al. 
 
-**Article with details on HDPS implementation** 
+**Article with details on HDPS implementation**
+
 Karim, M. E. (2025). High-Dimensional Propensity Score and Its Machine Learning Extensions in Residual Confounding Control. The American Statistician, 79(1), 72–90. https://doi.org/10.1080/00031305.2024.2368794
 
 **Detailed tutorial on HDPS and its implementation using this R package**
+
 https://ehsanx.github.io/hdPSw/
 
 **Reference paper on HDPS**
+
 Schneeweiss S, Rassen JA, Glynn RJ, Avorn J, Mogun H, Brookhart MA. High-dimensional propensity score adjustment in studies of treatment effects using health care claims data. Epidemiology. 2009 Jul;20(4):512-22. doi: 10.1097/EDE.0b013e3181a663cc. Erratum in: Epidemiology. 2018 Nov;29(6):e63-e64. doi: 10.1097/EDE.0000000000000886. PMID: 19487948; PMCID: PMC3077219.
 
 **Notes on this package**
