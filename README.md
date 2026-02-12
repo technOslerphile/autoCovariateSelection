@@ -8,14 +8,16 @@ As of 24 January 2025, this package has been downloaded more than 16,000 times f
 
 *autoCovariateSelection* is an R package that contains functions to implement automated covariate selection using methods described in the high-dimensional propensity score (HDPS) algorithm put forward by Schneeweiss et.al. 
 
-**Original publication by [Schneeweiss et.al. (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077219/)**
-
 **Article with details on HDPS implementation** 
 Karim, M. E. (2025). High-Dimensional Propensity Score and Its Machine Learning Extensions in Residual Confounding Control. The American Statistician, 79(1), 72–90. https://doi.org/10.1080/00031305.2024.2368794
 
 **Detailed tutorial on HDPS and its implementation using this R package**
 https://ehsanx.github.io/hdPSw/
 
+**Reference paper on HDPS**
+Schneeweiss S, Rassen JA, Glynn RJ, Avorn J, Mogun H, Brookhart MA. High-dimensional propensity score adjustment in studies of treatment effects using health care claims data. Epidemiology. 2009 Jul;20(4):512-22. doi: 10.1097/EDE.0b013e3181a663cc. Erratum in: Epidemiology. 2018 Nov;29(6):e63-e64. doi: 10.1097/EDE.0000000000000886. PMID: 19487948; PMCID: PMC3077219.
+
+**Notes on this package**
 Covariate adjustment in real-world-observational-data (RWD) is important for estimating adjusted outcomes and this can be done by using methods such as, but not limited to, propensity score matching, propensity score weighting and regression analysis. While these methods strive to statistically adjust for confounding, the major challenge is in selecting the potential covariates that can bias the outcomes comparison estimates in observational RWD (Real-World-Data). This is where the utility of automated covariate selection comes in. 
 
 The functions in this package help to implement the three steps of automated covariate selection. These three functions, in order of the steps required to execute automated covariate selection are:
